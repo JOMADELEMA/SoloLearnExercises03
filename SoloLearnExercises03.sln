@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Attack", "04-Attack\04-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-PerimeterCalculator", "05-PerimeterCalculator\05-PerimeterCalculator.csproj", "{595BD8E1-3E2E-4B6A-9F0E-229D380062DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-OnlineCarShopping", "06-OnlineCarShopping\06-OnlineCarShopping.csproj", "{A23B6EA8-2B6C-4457-BAB7-1F3EA390BE7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{595BD8E1-3E2E-4B6A-9F0E-229D380062DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595BD8E1-3E2E-4B6A-9F0E-229D380062DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595BD8E1-3E2E-4B6A-9F0E-229D380062DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23B6EA8-2B6C-4457-BAB7-1F3EA390BE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23B6EA8-2B6C-4457-BAB7-1F3EA390BE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23B6EA8-2B6C-4457-BAB7-1F3EA390BE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23B6EA8-2B6C-4457-BAB7-1F3EA390BE7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
