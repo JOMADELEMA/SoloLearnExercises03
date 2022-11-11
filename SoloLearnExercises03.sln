@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-WhatsMyAccountBalance", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-WhereAreThePlanes", "03-WhereAreThePlanes\03-WhereAreThePlanes.csproj", "{FB2F84AE-F4E7-45CD-9E1C-253DBA9C3843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Attack", "04-Attack\04-Attack.csproj", "{8CF77A92-D2C2-4149-AC3F-41C824D00124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FB2F84AE-F4E7-45CD-9E1C-253DBA9C3843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2F84AE-F4E7-45CD-9E1C-253DBA9C3843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2F84AE-F4E7-45CD-9E1C-253DBA9C3843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF77A92-D2C2-4149-AC3F-41C824D00124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF77A92-D2C2-4149-AC3F-41C824D00124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF77A92-D2C2-4149-AC3F-41C824D00124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF77A92-D2C2-4149-AC3F-41C824D00124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
