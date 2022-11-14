@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-DrawingApplication", "07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-FunWithDimensions", "08-FunWithDimensions\08-FunWithDimensions.csproj", "{ADAF9776-89DF-4AC0-9806-5E194C1C4A52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Accelerate", "09-Accelerate\09-Accelerate.csproj", "{5C6D6A09-094D-4830-B642-529F2F43BBB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{ADAF9776-89DF-4AC0-9806-5E194C1C4A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADAF9776-89DF-4AC0-9806-5E194C1C4A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAF9776-89DF-4AC0-9806-5E194C1C4A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6D6A09-094D-4830-B642-529F2F43BBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6D6A09-094D-4830-B642-529F2F43BBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6D6A09-094D-4830-B642-529F2F43BBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6D6A09-094D-4830-B642-529F2F43BBB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
