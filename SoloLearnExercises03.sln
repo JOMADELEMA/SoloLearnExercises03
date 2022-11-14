@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-QueueItUp", "15-QueueItU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-HiringEngineers", "16-HiringEngineers\16-HiringEngineers.csproj", "{EF1F8817-4E43-47A2-9B06-7A7C5FEACD6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-CoffeeTime", "17-CoffeeTime\17-CoffeeTime.csproj", "{802C2CD7-A5F0-457E-9863-7A572C566D73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{EF1F8817-4E43-47A2-9B06-7A7C5FEACD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF1F8817-4E43-47A2-9B06-7A7C5FEACD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF1F8817-4E43-47A2-9B06-7A7C5FEACD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802C2CD7-A5F0-457E-9863-7A572C566D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C2CD7-A5F0-457E-9863-7A572C566D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C2CD7-A5F0-457E-9863-7A572C566D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C2CD7-A5F0-457E-9863-7A572C566D73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
