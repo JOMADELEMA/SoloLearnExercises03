@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Accelerate", "09-Acceler
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-GoingOnVacation", "10-GoingOnVacation\10-GoingOnVacation.csproj", "{4906E489-81D8-480A-8806-FBD710E84364}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Robot-Barman", "11-Robot-Barman\11-Robot-Barman.csproj", "{45C8FFDA-E0B3-414D-91D2-9C2CE198AF91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4906E489-81D8-480A-8806-FBD710E84364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4906E489-81D8-480A-8806-FBD710E84364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4906E489-81D8-480A-8806-FBD710E84364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C8FFDA-E0B3-414D-91D2-9C2CE198AF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C8FFDA-E0B3-414D-91D2-9C2CE198AF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C8FFDA-E0B3-414D-91D2-9C2CE198AF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C8FFDA-E0B3-414D-91D2-9C2CE198AF91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
