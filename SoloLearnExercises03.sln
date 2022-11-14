@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Robot-Barman", "11-Robot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-PrintToPrinter", "12-PrintToPrinter\12-PrintToPrinter.csproj", "{FC906A1C-B95E-41BC-A7EE-8A110BA96FA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-GenericAllAround", "13-GenericAllAround\13-GenericAllAround.csproj", "{878D19E3-4406-440D-BD09-54287635DC1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FC906A1C-B95E-41BC-A7EE-8A110BA96FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC906A1C-B95E-41BC-A7EE-8A110BA96FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC906A1C-B95E-41BC-A7EE-8A110BA96FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878D19E3-4406-440D-BD09-54287635DC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878D19E3-4406-440D-BD09-54287635DC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878D19E3-4406-440D-BD09-54287635DC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878D19E3-4406-440D-BD09-54287635DC1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
